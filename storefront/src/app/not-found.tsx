@@ -1,12 +1,12 @@
-import { ArrowUpRightMini } from "@medusajs/icons"
-import { Text } from "@medusajs/ui"
-import { Metadata } from "next"
-import Link from "next/link"
+import { FaArrowRight } from 'medusa-icons';
+import { Text } from "@medusajs/ui";
+import { Metadata } from "next";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "404",
   description: "Something went wrong",
-}
+};
 
 export default function NotFound() {
   return (
@@ -20,11 +20,11 @@ export default function NotFound() {
         href="/"
       >
         <Text className="text-ui-fg-interactive">Go to frontpage</Text>
-        <ArrowUpRightMini
+        <FaArrowRight
           className="group-hover:rotate-45 ease-in-out duration-150"
           color="var(--fg-interactive)"
         />
       </Link>
     </div>
-  )
+  );
 }

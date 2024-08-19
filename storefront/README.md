@@ -1,19 +1,19 @@
 <p align="center">
-  <a href="https://www.medusajs.com">
+  <a href="https://www.barkprotocol.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/59018053/229103275-b5e482bb-4601-46e6-8142-244f531cebdb.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/59018053/229103726-e5b529a3-9b3f-4970-8a1f-c6af37f087bf.svg">
-    <img alt="Medusa logo" src="https://user-images.githubusercontent.com/59018053/229103726-e5b529a3-9b3f-4970-8a1f-c6af37f087bf.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)" srcset="">
+    <img alt="BARK logo" src="">
     </picture>
   </a>
 </p>
 
 <h1 align="center">
-  Medusa Next.js Starter Template
+  BARK | Storefront
 </h1>
 
 <p align="center">
-Combine Medusa's modules for your commerce backend with the newest Next.js 14 features for a performant storefront.</p>
+Combine Medusa's modules for BARK e-commerce backend with the newest Next.js 14 features for a performant storefront.</p>
 
 <p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md">
@@ -40,7 +40,7 @@ Check out [create-medusa-app docs](https://docs.medusajs.com/create-medusa-app) 
 
 # Overview
 
-The Medusa Next.js Starter is built with:
+The Store is built with:
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
